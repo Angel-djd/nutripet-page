@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Bocaditos de patitas - 1 kilo",
+    "price": 28.0,
+    "category":"Bocaditos",
+    "image": "https://scontent.flim2-1.fna.fbcdn.net/v/t39.30808-6/514242838_122122818404865863_1661656492092475493_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ALmRONl2PdAQ7kNvwF8Ldnn&_nc_oc=Adkp5zMlySxcajYSTOsuGE4R2VV8cd4nvA_xLdWE50I9J_bHPDyQGqrqLNTGsJvO6kcJq5VQzUkhnPKxsSaCCyz1&_nc_zt=23&_nc_ht=scontent.flim2-1.fna&_nc_gid=ENSqTwcQuPZCUGmM5RGQug&oh=00_AfMZZpu8j0Nj_QQ-KLX8d1WhMmsh5jSwauweE7ioIMaZdg&oe=68677B71",
+    "description": "Crujientes patitas de pollo deshidratadas, ricas en colágeno, glucosamina y condroitina para articulaciones, y actúan como cepillo dental natural mientras entretienen a tu mascota",
+    "isFavorite": false,
+    "inCart": false
+  },
+  {
+    "id": 2,
+    "name":"Croquetas de molleja - 1 kilo",
+    "price": 26.0,
+    "category": "Croquetas",
+    "image": "https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/514349088_122122818380865863_5439983316936495163_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yk9_uWiqlLgQ7kNvwGt_FFp&_nc_oc=AdmNIL0eYJnVOiptPh4kcpFLzdvaD_tSVj1f1sfsTp9X9bKT2GwebXoxoBMUZ1etlEsJByRyvY5zmpAkj6yGqdfT&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=m774oDMT3rEZQBcaKOfCkA&oh=00_AfNZ1Hwxqhj0rIZSqirem_Bzr9peh4vZwnGyx7eJU8Ydeg&oe=6867911C",
+    "description": "Premios crujientes 100 % molleja de pollo deshidratada, ricos en proteínas magras, colágeno y minerales, ideales para energía, articulaciones y salud dental.",
+    "isFavorite": false,
+    "inCart": false
+  },
+  {
+    "id": 3,
+    "name": "Premios de hígado",
+    "price": 12.0,
+    "category":"Premios",
+    "image": "https://scontent.flim2-2.fna.fbcdn.net/v/t39.30808-6/514181310_122122818398865863_8872772067224668174_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jmbDsUlzicwQ7kNvwEum32t&_nc_oc=Adk9XsL38bFxNy4We42hdPLr8Za1eC1XfHFckBIvyUZQwUvU42INaF8HupBU27FRXdpE535pT-iTUGHjKGDEmW-n&_nc_zt=23&_nc_ht=scontent.flim2-2.fna&_nc_gid=biNfmS9PpMo9T9ubMib3Lw&oh=00_AfOxetlfU0_kZjVvLPp-UdvBTa9WILaerpCKCnTLJzw4-g&oe=6867914F",
+    "description": "Suaves bocaditos de hígado deshidratado, altos en vitaminas A y B, proteínas de calidad para soporte muscular, piel y sistema inmunológico.",
+    "isFavorite": false,
+    "inCart": false
+  },
+  {
+    "id": 4,
+    "name": "Rollitos de cabecita",
+    "price": 36.0,
+    "category":"Bocaditos",
+    "image": "https://scontent.flim2-6.fna.fbcdn.net/v/t39.30808-6/514327225_122122818368865863_8521431221717196242_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LugiuEEzExQQ7kNvwEhrlbj&_nc_oc=Adm3Biw9O1I10o0WH8SWO97v0DTyHAv7DFPgDTbmWxzBWAZZcbTni7eVgMrtzlfSj756Qiat6W0oYfR9BFS7oZz1&_nc_zt=23&_nc_ht=scontent.flim2-6.fna&_nc_gid=MBXeytMg9PhBGFVIAIEAZw&oh=00_AfMLYpnSCz4f48-UmkieRqSls_UMXQEsoh5e5-YzzgyuvQ&oe=68677871",
+    "description": "Rollitos naturales de cabecita (cartílago y tejido conectivo), aportan colágeno y enzimas, fortalecen mandíbula y favorecen articulaciones y digestión.",
+    "isFavorite": false,
+    "inCart": false 
+  }
+]
