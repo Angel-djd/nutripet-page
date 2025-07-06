@@ -21,7 +21,7 @@ function UbicacionPage() {
             <i className="fas fa-map-marker-alt text-green-600 mr-2"></i>
             Caminos del Inca, Santiago de Surco
           </p>
-          <p className="text-gray-600 mt-2">Mercado 12 de Mayo</p>
+          <p className="text-gray-600 mt-2">.</p>
         </div>
       </div>
     </main>
