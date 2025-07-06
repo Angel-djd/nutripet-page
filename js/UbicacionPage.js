@@ -19,7 +19,7 @@ function UbicacionPage() {
         <div className="text-center">
           <p className="text-lg font-semibold">
             <i className="fas fa-map-marker-alt text-green-600 mr-2"></i>
-            Av. Micaela Bastidas, San Juan de Miraflores
+            Caminos del Inca, Santiago de Surco
           </p>
           <p className="text-gray-600 mt-2">Mercado 12 de Mayo</p>
         </div>
