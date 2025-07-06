@@ -14,8 +14,8 @@ function Footer({ onShowAbout }) {
             <h3 className="text-xl font-bold mb-4">
               <a href="ubicacion.html" className="hover:underline">Ubícanos</a>
             </h3>
-            <p>Av. Micaela Bastidas</p>
-            <p>San Juan de Miraflores, Lima</p>
+            <p>Caminos del Inca</p>
+            <p>Santiago de Surco, Lima</p>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-4">
